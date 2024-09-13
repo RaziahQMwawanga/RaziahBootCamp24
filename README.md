@@ -6,11 +6,11 @@ Aspiring Data Analyst
 
 I have always been fascinated by data analytics and visualization and the power of data to create evidence for action, strategic policy, and business decisions. To sharpen my understanding of Data Analysis and integrity, I enrolled in a 12-week Data Boot Camp. I learned data manipulation and analysis languages and applied advanced statistical methods, probability, and hypothesis testing to clean and prepare large datasets and structure them for analysis. My newly acquired skills extended to database management systems, including SQL, NoSQL, Data Warehousing solutions, and Machine Learning for predictive analytics. I tested these skills by creating a Power BI report on Cinemax Rental trends and a Tableau analysis of global video game sales. To provide data descriptive, diagnostic, and prescriptive analysis to help companies leverage data evidence-based advice to make strategic business decisions.
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in The United Kingdom
 * ✉️  You can contact me at [starcarman@gmail.com](mailto:starcarman@gmail.com)
 * 🧠  I'm learning Tableau
 * 🤝  I'm open to collaborating on Development Data solutions
-* ⚡  When I’m not deep in data, you’ll find me experimenting with new recipes, I approach data analysis like cooking: with precision, creativity, and a love for discovery
+* ⚡  When I’m not deep in data, you’ll find me experimenting with new recipes, I approach data analysis like cooking; with precision, creativity, and a love for discovery
 
 <a href="https://www.github.com/RaziahQuallateinMwawanga" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RaziahQuallateinMwawanga?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/RaziahQuallateinMwawanga" target="_blank" rel="noreferrer"><img
