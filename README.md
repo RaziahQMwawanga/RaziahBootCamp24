@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raziah Quallatein Mwawanga
 ==================================================================================================================================================
 
-Aspiring Data Analyst
----------------------
+Aspiring Data and Futuristic Business Analyst
+---------------------------------------------
 
 I have always been fascinated by data analytics and visualization and the power of data to create evidence for action, strategic policy, and business decisions. To sharpen my understanding of Data Analysis and integrity, I enrolled in a 12-week Data Boot Camp. I learned data manipulation and analysis languages and applied advanced statistical methods, probability, and hypothesis testing to clean and prepare large datasets and structure them for analysis. My newly acquired skills extended to database management systems, including SQL, NoSQL, Data Warehousing solutions, and Machine Learning for predictive analytics. I tested these skills by creating a Power BI report on Cinemax Rental trends and a Tableau analysis of global video game sales. To provide data descriptive, diagnostic, and prescriptive analysis to help companies leverage data evidence-based advice to make strategic business decisions.
 
